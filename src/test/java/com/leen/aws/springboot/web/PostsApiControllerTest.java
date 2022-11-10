@@ -5,7 +5,6 @@ import com.leen.aws.springboot.domain.posts.Posts;
 import com.leen.aws.springboot.domain.posts.PostsRepository;
 import com.leen.aws.springboot.web.dto.PostsSaveRequestDto;
 import com.leen.aws.springboot.web.dto.PostsUpdateRequestDto;
-import javafx.geometry.Pos;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
